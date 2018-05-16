@@ -1,0 +1,11 @@
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/bin/Debug/netcoreapp2.0/myDotNetTest.deps.json
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/bin/Debug/netcoreapp2.0/myDotNetTest.runtimeconfig.json
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/bin/Debug/netcoreapp2.0/myDotNetTest.runtimeconfig.dev.json
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/bin/Debug/netcoreapp2.0/myDotNetTest.dll
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/bin/Debug/netcoreapp2.0/myDotNetTest.pdb
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/obj/Debug/netcoreapp2.0/myDotNetTest.csprojAssemblyReference.cache
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/obj/Debug/netcoreapp2.0/myDotNetTest.csproj.CoreCompileInputs.cache
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/obj/Debug/netcoreapp2.0/myDotNetTest.AssemblyInfoInputs.cache
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/obj/Debug/netcoreapp2.0/myDotNetTest.AssemblyInfo.cs
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/obj/Debug/netcoreapp2.0/myDotNetTest.dll
+/Users/SteinsGate/Desktop/Instructions/Visual Studio Code Instruction/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/myDotNetTest/obj/Debug/netcoreapp2.0/myDotNetTest.pdb
